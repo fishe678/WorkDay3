@@ -34,6 +34,8 @@ Public Class Form1
             result = "They are equal"
         End If
 
+
+
         txtResult.Text = result
 
 
